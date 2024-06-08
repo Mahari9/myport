@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Tech.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "green and blue abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Highly motivated and results-oriented aspiring Full-Stack Software Engineer with a strong foundation in web development technologies seeking a challenging internship opportunity to contribute to real-world software projects and gain practical industry experience.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Front-end technologies like HTML, CSS, JavaScript (frameworks React or Vue.js)",
+  "Back-end development concepts and experience with server-side languages (Python, Java) and databases (MySQL, PostgreSQL)",
+  "Version control systems like Git and GitHub",
+  "Excellent problem-solving and analytical skills",
+  "Strong communication and collaboration abilities",
+  "Eager to learn and adapt to new technologies",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my skills I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
